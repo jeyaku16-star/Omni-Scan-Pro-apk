@@ -1,0 +1,6 @@
+{
+  "name": "OmniScan Pro",
+  "description": "Enterprise-grade Document Scanner, multi-column OCR, table reconstruction, and Barcode/QR code engine.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
